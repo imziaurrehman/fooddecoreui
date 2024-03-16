@@ -7,7 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 in this project i simply created food decore app ui contains tab bar which has different categories. 
-two screens one is home another is detail.
+   it has two screens one is home another is detail.
 
 <table>
   <tr>
